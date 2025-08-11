@@ -1,16 +1,17 @@
-## Hi there 👋
+# Avaneesh Sawant
 
-<!--
-**avaneeshsawant-git/avaneeshsawant-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I’m a student passionate about technology and software development.
 
-Here are some ideas to get you started:
+## 🚀 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Python**
+- **C++**
+- **MERN Stack (MongoDB, Express.js, React, Node.js)**
+
+## 🌐 Find Me Online
+
+[LinkedIn: Avaneesh Sawant](https://www.linkedin.com/in/avaneesh-sawant-b63a59333/)
+
+---
+
+Feel free to connect or check out my projects!
